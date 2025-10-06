@@ -1,0 +1,4 @@
+"Cloud Service Models (IaaS, PaaS, SaaS)" 
+"- IaaS: Provides virtualized computing resources over the internet." 
+"- PaaS: Provides platform to develop, run, and manage apps." 
+"- SaaS: Delivers software over the internet as a service." 
